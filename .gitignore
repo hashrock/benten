@@ -1,0 +1,11 @@
+node_modules/
+data/
+*.swp
+*.swo
+*.log
+<<<<<<< HEAD
+public/menu.json
+public/users.json
+template/tyumon_sheet.xml
+=======
+>>>>>>> 249f73b54f8f9a88ea5a55fdfb8a974906fb88f8

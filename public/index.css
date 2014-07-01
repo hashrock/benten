@@ -1,0 +1,28 @@
+body{
+	font-size: 1.5rem;
+	background: #FFFFE7;
+}
+h3{
+	color: #94D126;
+}
+button.btn.btn-success {
+	width: 150px;
+}
+option {
+	font-size: 1.5rem;
+}
+p {
+	font-size: 2rem;
+}
+.orderDate {
+	background: white;
+	margin: 10px;
+	padding: 10px;
+	border: solid 1px #B3B3B3;
+	border-radius: 5px;
+
+	/* box-shadow */
+	box-shadow:rgba(166, 166, 166, 0.619608) 0px 1px 3px 1px;
+	-webkit-box-shadow:rgba(166, 166, 166, 0.619608) 0px 1px 3px 1px;
+	-moz-box-shadow:rgba(166, 166, 166, 0.619608) 0px 1px 3px 1px;	
+}
